@@ -1,2 +1,2 @@
 # html-calculator-top
-This is a simple calculator made to practice my HTML, CSS, and JavaScript skills
+This is a simple calculator made to practice my HTML, CSS, and JavaScript skills. It's not pretty but it's functional and I might come back to make it look better and be more functional than it currently is
